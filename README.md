@@ -4,33 +4,32 @@
 </h4>
 <p align="center">
   <a href="https://rocketseat.com.br"  target="_blank">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-red">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-purple">
   </a>
- <a [LICENSE](LICENSE) >
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
- </a>
 </p>
 
 <br>
 
-### :superhero: Projeto
+### :bulb: Projeto
 
-<b>Be the Hero</b> é um projeto que visa conectar ONGs com pessoas que querem ajudar. Com o <b>Front-end</b> e o <b>Mobile</b> consumindo a mesma <b>API</b>, 
+<b>Be the Hero</b> é um projeto que visa conectar ONGs com pessoas que querem ajudar. Com o <b>Front-end</b> e o <b>Mobile</b> consumindo a mesma <b>API</b>, o Front-end do <b>Be The Hero</b> foi construído para as ONGs se cadastrarem e cadatrar os casos delas, podendo ser pedindo doações, casos com animais,  
 
-### 🦸‍♂️ Qual a importância de ajudar uma ONG? <br>
-As organizações não governamentais <b>(ONGs)</b> são entidades privadas da sociedade civil, sem fins lucrativos, cujo propósito é defender e promover uma causa. Essa causa pode ser virtualmente de qualquer tipo: <b>direitos humanos</b>, <b>direitos animais</b>, <b>direitos indígenas</b>, <b>gênero</b>, <b>luta contra o racismo</b>, <b>meio ambiente</b>, <b>questões urbanas</b>, <b>imigrantes</b>, entre muitos outros.
+### :question: O que é uma ONG? <br>
+As Organizações Não Governamentais <b>(ONGs)</b> são entidades que não têm fins lucrativos e realizam diversos tipos de ações solidárias para públicos específicos. Elas podem atuar nas áreas da <b>saúde</b>, <b>educação</b>, <b>assistência social</b>, <b>economia</b>, <b>ambiente</b>, entre outras, em âmbito local, estadual, nacional e até internacional.
 
-### :rocket: Tecnologias usadas
+### :information_source: Tecnologias usadas
 Este projeto foi desenvolvido com as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
-- [Expo](https://expo.io/)
+- [Yarn](https://yarnpkg.com/)
 - [Express](https://expressjs.com/pt-br/)
-- [ExpressJs](https://expressjs.com/pt-br/)
 - [Nodemon](https://www.npmjs.com/package/nodemon)
 - [Axios](https://www.npmjs.com/package/axios)
 - [Cors](https://www.npmjs.com/package/cors)
 - [Eslint](https://www.npmjs.com/package/eslint)
-- [Jest](https://www.npmjs.com/package/jest)
+- [Prettier](https://prettier.io/)
+- [React](https://reactjs.org/)
+- [ReactNative](https://reactnative.dev/)
+- [Expo](https://expo.io/)
 
 
 ### :recycle: Como contribuir
