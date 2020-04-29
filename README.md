@@ -6,7 +6,9 @@
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-red">
   </a>
+ <a src="./LICENSE">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
+ </a>
 </p>
 
 <br>
@@ -40,7 +42,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ### :mortar_board: Quem ministrou?
 
-A semana foi ministrada pelo <b>CTO da <link src="https://rocketseat.com.br/">Rocketseat</link></b> [Diego Fernandes](https://github.com/diego3g)
+A semana foi ministrada pelo <b>CTO da <a href="https://rocketseat.com.br/">Rocketseat</a></b> [Diego Fernandes](https://github.com/diego3g)
 
 ### :memo: Licença
 
