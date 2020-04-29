@@ -50,4 +50,4 @@ Entrem [na comunidade da Rocketseat :rocket:](https://discordapp.com/invite/gCRA
 
 ---
 
-Feito com 💜 by Ginholuca :wave: 
+Feito com 💜 by Ginholuca :octocat: .
