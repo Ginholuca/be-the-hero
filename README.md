@@ -3,7 +3,7 @@
  <b>Seja o Heroi!</b>
 </h4>
 <p align="center">
-  <a target="_blank" href="https://rocketseat.com.br">
+  <a href="https://rocketseat.com.br"  target="_blank">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-red">
   </a>
  <a src="./LICENSE">
