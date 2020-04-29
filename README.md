@@ -12,7 +12,7 @@
 
 ### :bulb: Projeto
 
-<b>Be the Hero</b> é um projeto que visa conectar ONGs com pessoas que querem ajudar. Com o <b>Front-end</b> e o <b>Mobile</b> consumindo a mesma <b>API</b>, o Front-end do <b>Be The Hero</b> foi construído para as ONGs se cadastrarem e cadatrar os casos delas, podendo ser pedindo doações, casos com animais,  
+<b>Be the Hero</b> é um projeto que visa conectar ONGs com pessoas que querem ajudar. Com o <b>Front-end</b> e o <b>Mobile</b> consumindo a mesma <b>API</b>, o Front-end do <b>Be The Hero</b> foi construído para as ONGs se cadastrarem e cadatrar os casos delas, podendo ser pedindo doações, casos com animais, etc. E o Mobile do <b>Be The Hero</b> foi construído para qualquer que queira ajudar, o user que baixar o Aplicativo pode ver todos os casos de todas as ONGs, entrar em contato com elas e se tornar o <b>Herói</b>. 
 
 ### :question: O que é uma ONG? <br>
 As Organizações Não Governamentais <b>(ONGs)</b> são entidades que não têm fins lucrativos e realizam diversos tipos de ações solidárias para públicos específicos. Elas podem atuar nas áreas da <b>saúde</b>, <b>educação</b>, <b>assistência social</b>, <b>economia</b>, <b>ambiente</b>, entre outras, em âmbito local, estadual, nacional e até internacional.
@@ -39,7 +39,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - Commit suas mudanças: `git commit -m 'feat: My new feature'`
 - Push a sua branch: `git push origin my-feature`
 
-### :mortar_board: Quem ministrou?
+### :rocket: Quem ministrou?
 
 A semana foi ministrada pelo <b>CTO da <a href="https://rocketseat.com.br/">Rocketseat</a></b> [Diego Fernandes](https://github.com/diego3g)
 
@@ -51,4 +51,4 @@ Entrem [na comunidade da Rocketseat :rocket:](https://discordapp.com/invite/gCRA
 
 ---
 
-Feito com 💜 by Ginholuca :octocat: .
+Feito com 💜 by Ginholuca :octocat:.
