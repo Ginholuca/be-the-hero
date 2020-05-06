@@ -25,7 +25,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [Nodemon](https://www.npmjs.com/package/nodemon)
 - [Axios](https://www.npmjs.com/package/axios)
 - [Cors](https://www.npmjs.com/package/cors)
-- [Eslint](https://www.npmjs.com/package/eslint)
+- [Eslint](https://www.npmjs.com/package/eslint) 
 - [Prettier](https://prettier.io/)
 - [React](https://reactjs.org/)
 - [ReactNative](https://reactnative.dev/)
