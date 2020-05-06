@@ -36,12 +36,12 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 Contribuições são o que fazem a comunidade open source um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será **muito apreciada**.
 
-<b>1</b>. Faça um Fork do projeto<br>
-<b>2</b>. Crie uma Branch para sua Feature (`git checkout -b feature/FeatureIncrivel`)<br>
-<b>3</b>. Adicione suas mudanças (`git add .`)<br>
-<b>4</b>. Comite suas mudanças (`git commit -m 'Adicionando uma Feature incrível!`)<br>
-<b>5</b>. Faça o Push da Branch (`git push origin feature/FeatureIncrivel`)<br>
-<b>6</b>. Abra uma Pull Request<br>
+<b>1</b>. Faça um Fork do projeto;<br>
+<b>2</b>. Crie uma Branch para sua Feature (`git checkout -b feature/FeatureIncrivel`);<br>
+<b>3</b>. Adicione suas mudanças (`git add .`);<br>
+<b>4</b>. Comite suas mudanças (`git commit -m 'Adicionando uma Feature incrível!`);<br>
+<b>5</b>. Faça o Push da Branch (`git push origin feature/FeatureIncrivel`);<br>
+<b>6</b>. Abra uma Pull Request.<br>
 
 ### :rocket: Quem ministrou?
 
