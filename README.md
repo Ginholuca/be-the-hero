@@ -4,7 +4,7 @@
 </h4>
 <p align="center">
   <a href="https://rocketseat.com.br"  target="_blank">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-purple">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-red">
   </a>
 </p>
 
