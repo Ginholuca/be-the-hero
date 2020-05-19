@@ -31,7 +31,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [ReactNative](https://reactnative.dev/)
 - [Expo](https://expo.io/)
 
-
 ### :balloon: Como contribuir
 
 Contribuições são o que fazem a comunidade open source um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será **muito apreciada**.
