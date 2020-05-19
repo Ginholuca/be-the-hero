@@ -42,6 +42,8 @@ Contribuições são o que fazem a comunidade open source um lugar incrível par
 <b>5</b>. Faça o Push da Branch (`git push origin feature/FeatureIncrivel`);<br>
 <b>6</b>. Abra uma Pull Request.<br>
 
+-----
+
 ### :rocket: Quem ministrou?
 
 A semana foi ministrada pelo <b>CTO da <a href="https://rocketseat.com.br/">Rocketseat</a></b> [Diego Fernandes](https://github.com/diego3g)
