@@ -46,6 +46,8 @@ Contribuições são o que fazem a comunidade open source um lugar incrível par
 
 A semana foi ministrada pelo <b>CTO da <a href="https://rocketseat.com.br/">Rocketseat</a></b> [Diego Fernandes](https://github.com/diego3g)
 
+-----
+
 ### :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
