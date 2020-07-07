@@ -54,7 +54,7 @@ A semana foi ministrada pelo <b>CTO da <a href="https://rocketseat.com.br/">Rock
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-Entrem [na comunidade da Rocketseat :rocket:](https://discordapp.com/invite/gCRAFhc)
+Entre [na comunidade da Rocketseat :rocket:](https://discordapp.com/invite/gCRAFhc)
 
 -----
 
