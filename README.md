@@ -58,4 +58,4 @@ Entrem [na comunidade da Rocketseat :rocket:](https://discordapp.com/invite/gCRA
 
 -----
 
-Feito com 💜 by Ginholuca :octocat:.
+Feito com 💜 by Ginholuca :octocat:
